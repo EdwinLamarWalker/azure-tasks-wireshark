@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![image](https://github.com/EdwinLamarWalker/configure-VM/assets/147763790/c1fc6f41-95af-40fb-8c7c-f638843c7c1a)
+
 
 <h1>Microsoft Azure - Performing Task In Azure using wireshark </h1>
 In this Tutorial we will be observing icmp traffic and performing task inside azure's virtual machines using wireshark<br />
